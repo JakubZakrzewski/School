@@ -2,7 +2,8 @@
 
 <b> Runnable .jar file avaliable in: runnable/School_jar </b>
 
-<h3>English</h3>
+Polska wersja: [PL](README.pl.md)
+
 My first program. <br>
 It was written as an individual, final task as a part of <i> Java basic </i> workshop
 organised by <i> Computer Science Student association SKNI SGH </i> <br>
